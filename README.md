@@ -4,17 +4,6 @@
 1. LEXTRAIT Hugo
 2. REN Victor
 
-## Description Global de la structure du projet
-
-Le projet est divisé en deux partie disctincte que nous n'avons pas réussi à lier.  
-
-1. Le FRONT end 
-2. le BACK end 
-
-Vous trouverez notre avancement de ces deux parties dans deux branches distinctes :
-
-**1. BACK -> MAIN BRANCH**
-**2. FRONT -> FRONT BRANCH**
 
 ##  Avancement Global
 
